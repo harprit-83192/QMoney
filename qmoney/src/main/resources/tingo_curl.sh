@@ -1,0 +1,2 @@
+curl "https://api.tiingo.com/tiingo/daily/GOOGL/prices?startDate=2021-05-15&endDate=2021-05-20&token=705577d49e7eff0d54df73291cae2dc80dfd9fae"
+curl "https://api.tiingo.com/tiingo/daily/AAPL/prices?startDate=2021-05-15&endDate=2021-05-20&token=705577d49e7eff0d54df73291cae2dc80dfd9fae"
