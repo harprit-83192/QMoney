@@ -150,8 +150,8 @@ public class PortfolioManagerApplication {
   
 
   public static String getToken(){
-    return "59be2b1f4ce8f1a7bf56ce71b194187d048bad66";
-    // return "f8f43e95887cfbd3079e95cc1df68412e608e7ae";
+    // return "59be2b1f4ce8f1a7bf56ce71b194187d048bad66";
+    return "f8f43e95887cfbd3079e95cc1df68412e608e7ae";
   }
 
 
