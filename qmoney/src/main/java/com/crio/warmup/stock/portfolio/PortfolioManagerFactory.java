@@ -17,6 +17,11 @@ public class PortfolioManagerFactory {
 //     return new PortfolioManagerImpl(StockQuoteServiceFactory.INSTANCE.getService(str,restTemplate));
 //  }
 
+  // public static PortfolioManager getPortfolioManager(RestTemplate restTemplate) {
+
+  // }
+
+
 
 
 }

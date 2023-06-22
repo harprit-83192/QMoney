@@ -19,10 +19,12 @@ import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 import java.util.UUID;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 import org.apache.logging.log4j.ThreadContext;
 import org.springframework.web.client.RestTemplate;
 
@@ -150,8 +152,8 @@ public class PortfolioManagerApplication {
   
 
   public static String getToken(){
-    // return "59be2b1f4ce8f1a7bf56ce71b194187d048bad66";
-    return "f8f43e95887cfbd3079e95cc1df68412e608e7ae";
+    return "59be2b1f4ce8f1a7bf56ce71b194187d048bad66";
+    // return "f8f43e95887cfbd3079e95cc1df68412e608e7ae";
   }
 
 
